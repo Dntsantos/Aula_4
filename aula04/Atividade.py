@@ -8,4 +8,3 @@ if valor > 250.00 :
     print(f'O valor com desconto é: {total} ')
 elif valor < 250.00:
     print(f'O valor final é: {valor}')
-https://github.com/Dntsantos/Aula_4.git
