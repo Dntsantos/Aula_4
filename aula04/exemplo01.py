@@ -41,13 +41,13 @@
 
 # Aprovação por nota ou frequência
 
-nota = float(input('Informe a sua nota: '))
-frequencia = float(input('Informe a sua frequencia: '))
+# nota = float(input('Informe a sua nota: '))
+# frequencia = float(input('Informe a sua frequencia: '))
 
-if nota >= 7:
-    if frequencia >= 75:
-        print('APROVADO')
-    else:
-        print('REPROVADO POR FALTA')
-else:
-    print('REPROVADO POR NOTA')
+# if nota >= 7:
+#     if frequencia >= 75:
+#         print('APROVADO')
+#     else:
+#         print('REPROVADO POR FALTA')
+# else:
+#     print('REPROVADO POR NOTA')
