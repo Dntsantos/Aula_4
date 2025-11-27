@@ -9,11 +9,11 @@
 # elif valor < 250.00:
 #     print(f'O valor final é: {valor}')
 
-disponivel = int(input("digite a quantidade disponivel: "))
-solicitada = int(input('digite a quantidade solicitada: '))
-peso = float(input('digite o peso do pedido: '))
+# disponivel = int(input("digite a quantidade disponivel: "))
+# solicitada = int(input('digite a quantidade solicitada: '))
+# peso = float(input('digite o peso do pedido: '))
 
-if solicitada <= disponivel and peso <= 50:
-    print('O pedido sera enviado em breve')
-else:
-    print('o pedido nao pode ser enviado')
+# if solicitada <= disponivel and peso <= 50:
+#     print('O pedido sera enviado em breve')
+# else:
+#     print('o pedido nao pode ser enviado')
